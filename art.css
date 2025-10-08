@@ -1,0 +1,33 @@
+body{ 
+font-family:"Helvetica Neue,"Arial,sans-serif;
+font-heigh:100px;
+color: #FF642E;/*dark orange*/
+background-color: #FAA1F1;{
+}
+
+h1{font-size:2em;
+font-weight:bold;
+color:(50,100,150)
+}
+p{line-height:2.0;
+text-align:justify;
+}
+
+.flex-container img{
+display: flex;
+transition: transform 0.3s; 
+}
+
+.flex-item{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between; 
+}
+
+nav ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+ display: flex;
+ justify-content: space-between;
+}

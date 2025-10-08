@@ -1,0 +1,36 @@
+body{
+font-family: "Helvetica neue" ,Arial,sans-serif;
+font-size: 20px;/*comment*/
+color: #C64DEC;
+background-color: #19FC72;
+}
+h1{font-size:3em;
+font-wight: bold;
+color: rgb(0,50,150);
+}
+
+p{line-height:2.0;
+text-align: justify;
+}
+
+
+.num1{
+float: left;
+with: 500px;
+margin: 10px;
+}
+
+.num2{
+float: right;
+with: 600px;
+margin: 10px;
+}
+
+nav ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+ display: flex;
+ justify-content: space-between;
+}
+
